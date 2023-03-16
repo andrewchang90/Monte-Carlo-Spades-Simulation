@@ -8,8 +8,6 @@ TOTAL_TEAM = 2
 TOTAL_CARDS_PER_PLAYER = 13
 WINNING_SCORE = 500
 LOSING_SCORE = -200
-TOTAL_GAMES = 5000
-TOTAL_RUNS = 10
 
 team_score = [0] * TOTAL_TEAM
 # team index 0 -> player 0 and player 2
